@@ -1,0 +1,518 @@
+2025-03-05 00:34:34,243 Epochs: [0/300]; Train loss: 0.104054; Valid loss: 0.068827; mapping: 0.000000; lr: 0.000100 
+
+2025-03-05 00:39:27,997 Epochs: [1/300]; Train loss: 0.097730; Valid loss: 0.068825; mapping: 0.000000; lr: 0.000100 
+
+2025-03-05 00:44:21,173 Epochs: [2/300]; Train loss: 0.095036; Valid loss: 0.073044; mapping: 0.000000; lr: 0.000100 
+
+2025-03-05 00:49:18,192 Epochs: [3/300]; Train loss: 0.094055; Valid loss: 0.067070; mapping: 0.000000; lr: 0.000100 
+
+2025-03-05 00:54:08,391 Epochs: [4/300]; Train loss: 0.092904; Valid loss: 0.065703; mapping: 0.000000; lr: 0.000100 
+
+2025-03-05 00:58:59,836 Epochs: [5/300]; Train loss: 0.092111; Valid loss: 0.067562; mapping: 0.000000; lr: 0.000100 
+
+2025-03-05 01:03:51,243 Epochs: [6/300]; Train loss: 0.092616; Valid loss: 0.069349; mapping: 0.000000; lr: 0.000100 
+
+2025-03-05 01:08:39,088 Epochs: [7/300]; Train loss: 0.091459; Valid loss: 0.066440; mapping: 0.000000; lr: 0.000100 
+
+2025-03-05 01:13:32,558 Epochs: [8/300]; Train loss: 0.091261; Valid loss: 0.069304; mapping: 0.000000; lr: 0.000100 
+
+2025-03-05 01:18:20,819 Epochs: [9/300]; Train loss: 0.091476; Valid loss: 0.066029; mapping: 0.000000; lr: 0.000100 
+
+2025-03-05 01:23:20,700 Epochs: [10/300]; Train loss: 0.091645; Valid loss: 0.066097; mapping: 0.000000; lr: 0.000030 
+
+2025-03-05 01:28:14,330 Epochs: [11/300]; Train loss: 0.088765; Valid loss: 0.064462; mapping: 0.000000; lr: 0.000030 
+
+2025-03-05 01:33:05,437 Epochs: [12/300]; Train loss: 0.090586; Valid loss: 0.067814; mapping: 0.000000; lr: 0.000030 
+
+2025-03-05 01:37:58,799 Epochs: [13/300]; Train loss: 0.089711; Valid loss: 0.066008; mapping: 0.000000; lr: 0.000030 
+
+2025-03-05 01:42:52,278 Epochs: [14/300]; Train loss: 0.089137; Valid loss: 0.061548; mapping: 0.000000; lr: 0.000030 
+
+2025-03-05 01:47:41,747 Epochs: [15/300]; Train loss: 0.090063; Valid loss: 0.065706; mapping: 0.000000; lr: 0.000030 
+
+2025-03-05 01:52:33,030 Epochs: [16/300]; Train loss: 0.088493; Valid loss: 0.066182; mapping: 0.000000; lr: 0.000030 
+
+2025-03-05 01:57:25,187 Epochs: [17/300]; Train loss: 0.089123; Valid loss: 0.063223; mapping: 0.000000; lr: 0.000030 
+
+2025-03-05 02:02:15,428 Epochs: [18/300]; Train loss: 0.088320; Valid loss: 0.064092; mapping: 0.000000; lr: 0.000030 
+
+2025-03-05 02:07:06,044 Epochs: [19/300]; Train loss: 0.088361; Valid loss: 0.067725; mapping: 0.000000; lr: 0.000030 
+
+2025-03-05 02:11:57,917 Epochs: [20/300]; Train loss: 0.089405; Valid loss: 0.066147; mapping: 0.000000; lr: 0.000009 
+
+2025-03-05 02:16:43,455 Epochs: [21/300]; Train loss: 0.087647; Valid loss: 0.065934; mapping: 0.000000; lr: 0.000009 
+
+2025-03-05 02:21:33,989 Epochs: [22/300]; Train loss: 0.088788; Valid loss: 0.064786; mapping: 0.000000; lr: 0.000009 
+
+2025-03-05 02:26:19,511 Epochs: [23/300]; Train loss: 0.087915; Valid loss: 0.067215; mapping: 0.000000; lr: 0.000009 
+
+2025-03-05 02:31:05,676 Epochs: [24/300]; Train loss: 0.087220; Valid loss: 0.064275; mapping: 0.000000; lr: 0.000009 
+
+2025-03-05 17:03:45,214 Epochs: [25/300]; Train loss: 0.088411; Valid loss: 0.066270; mapping: 0.000000; lr: 0.000009 
+
+2025-03-05 17:08:22,724 Epochs: [26/300]; Train loss: 0.088803; Valid loss: 0.066462; mapping: 0.000000; lr: 0.000003 
+
+2025-03-05 17:13:16,853 Epochs: [27/300]; Train loss: 0.087763; Valid loss: 0.064638; mapping: 0.000000; lr: 0.000003 
+
+2025-03-05 17:18:13,247 Epochs: [28/300]; Train loss: 0.088177; Valid loss: 0.065634; mapping: 0.000000; lr: 0.000003 
+
+2025-03-05 17:23:08,477 Epochs: [29/300]; Train loss: 0.088739; Valid loss: 0.066697; mapping: 0.000000; lr: 0.000003 
+
+2025-03-05 17:28:03,365 Epochs: [30/300]; Train loss: 0.087607; Valid loss: 0.065673; mapping: 0.000000; lr: 0.000003 
+
+2025-03-05 17:32:58,349 Epochs: [31/300]; Train loss: 0.087781; Valid loss: 0.064908; mapping: 0.000000; lr: 0.000003 
+
+2025-03-05 17:37:52,854 Epochs: [32/300]; Train loss: 0.087855; Valid loss: 0.065920; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 17:42:49,972 Epochs: [33/300]; Train loss: 0.088183; Valid loss: 0.065756; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 17:47:44,872 Epochs: [34/300]; Train loss: 0.088681; Valid loss: 0.064307; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 17:52:38,408 Epochs: [35/300]; Train loss: 0.088372; Valid loss: 0.064324; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 17:57:31,860 Epochs: [36/300]; Train loss: 0.087563; Valid loss: 0.066640; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:02:26,024 Epochs: [37/300]; Train loss: 0.088202; Valid loss: 0.064701; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:07:18,481 Epochs: [38/300]; Train loss: 0.087602; Valid loss: 0.063755; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:12:13,711 Epochs: [39/300]; Train loss: 0.088752; Valid loss: 0.064397; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:17:09,151 Epochs: [40/300]; Train loss: 0.087835; Valid loss: 0.064285; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:22:03,344 Epochs: [41/300]; Train loss: 0.088101; Valid loss: 0.065103; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:26:57,796 Epochs: [42/300]; Train loss: 0.088998; Valid loss: 0.065629; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:31:53,189 Epochs: [43/300]; Train loss: 0.087400; Valid loss: 0.065260; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:36:47,377 Epochs: [44/300]; Train loss: 0.087235; Valid loss: 0.065271; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:41:42,331 Epochs: [45/300]; Train loss: 0.088154; Valid loss: 0.065806; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:46:37,806 Epochs: [46/300]; Train loss: 0.088380; Valid loss: 0.065212; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:51:32,333 Epochs: [47/300]; Train loss: 0.088021; Valid loss: 0.065303; mapping: 0.000000; lr: 0.000001 
+
+2025-03-05 18:56:27,605 Epochs: [48/300]; Train loss: 0.088237; Valid loss: 0.065694; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 17:29:19,401 Epochs: [49/300]; Train loss: 0.088810; Valid loss: 0.065112; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 17:34:09,922 Epochs: [50/300]; Train loss: 0.087249; Valid loss: 0.064406; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 17:39:07,531 Epochs: [51/300]; Train loss: 0.088911; Valid loss: 0.065473; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 17:44:04,030 Epochs: [52/300]; Train loss: 0.087254; Valid loss: 0.064214; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 17:49:02,528 Epochs: [53/300]; Train loss: 0.086853; Valid loss: 0.065896; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 17:53:53,904 Epochs: [54/300]; Train loss: 0.087715; Valid loss: 0.065306; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 17:58:48,609 Epochs: [55/300]; Train loss: 0.087614; Valid loss: 0.064926; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:03:44,851 Epochs: [56/300]; Train loss: 0.088031; Valid loss: 0.065121; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:08:42,523 Epochs: [57/300]; Train loss: 0.087761; Valid loss: 0.066068; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:13:41,167 Epochs: [58/300]; Train loss: 0.088710; Valid loss: 0.066787; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:18:38,651 Epochs: [59/300]; Train loss: 0.088144; Valid loss: 0.064651; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:23:40,208 Epochs: [60/300]; Train loss: 0.087775; Valid loss: 0.065876; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:28:38,744 Epochs: [61/300]; Train loss: 0.088238; Valid loss: 0.066453; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:33:38,026 Epochs: [62/300]; Train loss: 0.087892; Valid loss: 0.066655; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:38:35,271 Epochs: [63/300]; Train loss: 0.087832; Valid loss: 0.066265; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:43:31,641 Epochs: [64/300]; Train loss: 0.087990; Valid loss: 0.065348; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:48:30,751 Epochs: [65/300]; Train loss: 0.088356; Valid loss: 0.065988; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:53:30,988 Epochs: [66/300]; Train loss: 0.087348; Valid loss: 0.065582; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 18:58:32,803 Epochs: [67/300]; Train loss: 0.088077; Valid loss: 0.064918; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:03:34,314 Epochs: [68/300]; Train loss: 0.087308; Valid loss: 0.064582; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:08:33,685 Epochs: [69/300]; Train loss: 0.087206; Valid loss: 0.065940; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:13:28,280 Epochs: [70/300]; Train loss: 0.088056; Valid loss: 0.065391; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:18:25,100 Epochs: [71/300]; Train loss: 0.088206; Valid loss: 0.066885; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:23:20,549 Epochs: [72/300]; Train loss: 0.088538; Valid loss: 0.065537; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:28:19,646 Epochs: [73/300]; Train loss: 0.088013; Valid loss: 0.065408; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:33:18,414 Epochs: [74/300]; Train loss: 0.087353; Valid loss: 0.065838; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:38:14,305 Epochs: [75/300]; Train loss: 0.086759; Valid loss: 0.064776; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:43:09,549 Epochs: [76/300]; Train loss: 0.087760; Valid loss: 0.065012; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:48:07,526 Epochs: [77/300]; Train loss: 0.088366; Valid loss: 0.066010; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:53:04,736 Epochs: [78/300]; Train loss: 0.087619; Valid loss: 0.064731; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 19:58:00,776 Epochs: [79/300]; Train loss: 0.088404; Valid loss: 0.065693; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:02:59,632 Epochs: [80/300]; Train loss: 0.087288; Valid loss: 0.066013; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:07:56,403 Epochs: [81/300]; Train loss: 0.087789; Valid loss: 0.066998; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:12:55,378 Epochs: [82/300]; Train loss: 0.086764; Valid loss: 0.064851; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:17:52,882 Epochs: [83/300]; Train loss: 0.087567; Valid loss: 0.066026; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:22:49,884 Epochs: [84/300]; Train loss: 0.088485; Valid loss: 0.066052; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:27:47,319 Epochs: [85/300]; Train loss: 0.087407; Valid loss: 0.065284; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:32:46,233 Epochs: [86/300]; Train loss: 0.086731; Valid loss: 0.065629; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:37:44,466 Epochs: [87/300]; Train loss: 0.087642; Valid loss: 0.066162; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:42:42,056 Epochs: [88/300]; Train loss: 0.087602; Valid loss: 0.065465; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:47:39,330 Epochs: [89/300]; Train loss: 0.087075; Valid loss: 0.064754; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:52:35,641 Epochs: [90/300]; Train loss: 0.086788; Valid loss: 0.064242; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 20:57:29,957 Epochs: [91/300]; Train loss: 0.088399; Valid loss: 0.065503; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 21:02:25,324 Epochs: [92/300]; Train loss: 0.088440; Valid loss: 0.065809; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 21:07:22,940 Epochs: [93/300]; Train loss: 0.087862; Valid loss: 0.067433; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 21:12:19,941 Epochs: [94/300]; Train loss: 0.088166; Valid loss: 0.065831; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 21:17:18,305 Epochs: [95/300]; Train loss: 0.087822; Valid loss: 0.065929; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 21:22:14,754 Epochs: [96/300]; Train loss: 0.088227; Valid loss: 0.065847; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 21:27:13,277 Epochs: [97/300]; Train loss: 0.087329; Valid loss: 0.065527; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 21:57:34,948 Epochs: [98/300]; Train loss: 0.087625; Valid loss: 0.066310; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:02:33,149 Epochs: [99/300]; Train loss: 0.088113; Valid loss: 0.066443; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:07:32,031 Epochs: [100/300]; Train loss: 0.086691; Valid loss: 0.065250; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:12:29,801 Epochs: [101/300]; Train loss: 0.087651; Valid loss: 0.064614; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:17:27,951 Epochs: [102/300]; Train loss: 0.087231; Valid loss: 0.065994; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:22:26,274 Epochs: [103/300]; Train loss: 0.088263; Valid loss: 0.065725; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:27:25,117 Epochs: [104/300]; Train loss: 0.088774; Valid loss: 0.065099; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:32:24,376 Epochs: [105/300]; Train loss: 0.087228; Valid loss: 0.065480; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:37:22,276 Epochs: [106/300]; Train loss: 0.087986; Valid loss: 0.065476; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:42:20,000 Epochs: [107/300]; Train loss: 0.088254; Valid loss: 0.065830; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:47:15,862 Epochs: [108/300]; Train loss: 0.087328; Valid loss: 0.066207; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:52:11,218 Epochs: [109/300]; Train loss: 0.087998; Valid loss: 0.065067; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 22:57:07,496 Epochs: [110/300]; Train loss: 0.087858; Valid loss: 0.065380; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 23:02:02,650 Epochs: [111/300]; Train loss: 0.088739; Valid loss: 0.066084; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 23:06:58,609 Epochs: [112/300]; Train loss: 0.087969; Valid loss: 0.065361; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 23:11:55,202 Epochs: [113/300]; Train loss: 0.088317; Valid loss: 0.065920; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 23:16:53,016 Epochs: [114/300]; Train loss: 0.087723; Valid loss: 0.065821; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 23:21:48,651 Epochs: [115/300]; Train loss: 0.088472; Valid loss: 0.064285; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 23:26:44,970 Epochs: [116/300]; Train loss: 0.087495; Valid loss: 0.065594; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 23:31:41,613 Epochs: [117/300]; Train loss: 0.087531; Valid loss: 0.064769; mapping: 0.000000; lr: 0.000001 
+
+2025-03-06 23:36:38,113 Epochs: [118/300]; Train loss: 0.087389; Valid loss: 0.063704; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 18:13:01,667 Epochs: [119/300]; Train loss: 0.087855; Valid loss: 0.066749; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 18:17:44,085 Epochs: [120/300]; Train loss: 0.087509; Valid loss: 0.065268; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 18:22:35,168 Epochs: [121/300]; Train loss: 0.088222; Valid loss: 0.067212; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 18:27:28,021 Epochs: [122/300]; Train loss: 0.087184; Valid loss: 0.065412; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 18:32:20,565 Epochs: [123/300]; Train loss: 0.087519; Valid loss: 0.064678; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 18:37:14,881 Epochs: [124/300]; Train loss: 0.087986; Valid loss: 0.065326; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 18:42:11,550 Epochs: [125/300]; Train loss: 0.087678; Valid loss: 0.065330; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 18:47:08,152 Epochs: [126/300]; Train loss: 0.087131; Valid loss: 0.064673; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 18:52:06,103 Epochs: [127/300]; Train loss: 0.087279; Valid loss: 0.064812; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 18:57:11,427 Epochs: [128/300]; Train loss: 0.087839; Valid loss: 0.064942; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:02:04,765 Epochs: [129/300]; Train loss: 0.087416; Valid loss: 0.065641; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:07:01,253 Epochs: [130/300]; Train loss: 0.088870; Valid loss: 0.066477; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:12:01,264 Epochs: [131/300]; Train loss: 0.087526; Valid loss: 0.066645; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:16:58,861 Epochs: [132/300]; Train loss: 0.087679; Valid loss: 0.066505; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:21:55,531 Epochs: [133/300]; Train loss: 0.087393; Valid loss: 0.065626; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:27:02,030 Epochs: [134/300]; Train loss: 0.087854; Valid loss: 0.064620; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:32:17,475 Epochs: [135/300]; Train loss: 0.087620; Valid loss: 0.065688; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:37:25,651 Epochs: [136/300]; Train loss: 0.088273; Valid loss: 0.064381; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:42:38,962 Epochs: [137/300]; Train loss: 0.088308; Valid loss: 0.064630; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:47:41,513 Epochs: [138/300]; Train loss: 0.087647; Valid loss: 0.065344; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:52:45,563 Epochs: [139/300]; Train loss: 0.087412; Valid loss: 0.066373; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 19:57:58,279 Epochs: [140/300]; Train loss: 0.087856; Valid loss: 0.064852; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:03:05,524 Epochs: [141/300]; Train loss: 0.087026; Valid loss: 0.064836; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:07:58,784 Epochs: [142/300]; Train loss: 0.087629; Valid loss: 0.064800; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:12:56,211 Epochs: [143/300]; Train loss: 0.086776; Valid loss: 0.065656; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:17:54,170 Epochs: [144/300]; Train loss: 0.086931; Valid loss: 0.065017; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:22:49,163 Epochs: [145/300]; Train loss: 0.087924; Valid loss: 0.064668; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:27:51,245 Epochs: [146/300]; Train loss: 0.088245; Valid loss: 0.066325; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:32:51,184 Epochs: [147/300]; Train loss: 0.088341; Valid loss: 0.065307; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:37:57,799 Epochs: [148/300]; Train loss: 0.087482; Valid loss: 0.065337; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:43:01,514 Epochs: [149/300]; Train loss: 0.087197; Valid loss: 0.064999; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:48:08,813 Epochs: [150/300]; Train loss: 0.087851; Valid loss: 0.064457; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:53:13,370 Epochs: [151/300]; Train loss: 0.087281; Valid loss: 0.065350; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 20:58:18,539 Epochs: [152/300]; Train loss: 0.086807; Valid loss: 0.064296; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 21:03:21,975 Epochs: [153/300]; Train loss: 0.087321; Valid loss: 0.065185; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 22:33:28,672 Epochs: [154/300]; Train loss: 0.087666; Valid loss: 0.065329; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 22:38:24,396 Epochs: [155/300]; Train loss: 0.088141; Valid loss: 0.065361; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 22:43:30,913 Epochs: [156/300]; Train loss: 0.088002; Valid loss: 0.065470; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 22:48:34,472 Epochs: [157/300]; Train loss: 0.087886; Valid loss: 0.066698; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 22:53:38,964 Epochs: [158/300]; Train loss: 0.086366; Valid loss: 0.065431; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 22:58:43,681 Epochs: [159/300]; Train loss: 0.087435; Valid loss: 0.065009; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:03:50,927 Epochs: [160/300]; Train loss: 0.087147; Valid loss: 0.066060; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:08:55,349 Epochs: [161/300]; Train loss: 0.087191; Valid loss: 0.065618; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:13:58,771 Epochs: [162/300]; Train loss: 0.088261; Valid loss: 0.066559; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:19:16,414 Epochs: [163/300]; Train loss: 0.088595; Valid loss: 0.064138; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:24:20,777 Epochs: [164/300]; Train loss: 0.087422; Valid loss: 0.066701; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:29:24,850 Epochs: [165/300]; Train loss: 0.086843; Valid loss: 0.064574; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:34:33,357 Epochs: [166/300]; Train loss: 0.087466; Valid loss: 0.065840; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:39:34,162 Epochs: [167/300]; Train loss: 0.087028; Valid loss: 0.066397; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:44:44,215 Epochs: [168/300]; Train loss: 0.087332; Valid loss: 0.064837; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:49:53,845 Epochs: [169/300]; Train loss: 0.087872; Valid loss: 0.065599; mapping: 0.000000; lr: 0.000001 
+
+2025-03-09 23:55:04,263 Epochs: [170/300]; Train loss: 0.087668; Valid loss: 0.065701; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:00:09,456 Epochs: [171/300]; Train loss: 0.087876; Valid loss: 0.065030; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:05:16,555 Epochs: [172/300]; Train loss: 0.088300; Valid loss: 0.065621; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:10:19,036 Epochs: [173/300]; Train loss: 0.088204; Valid loss: 0.066665; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:15:36,606 Epochs: [174/300]; Train loss: 0.087174; Valid loss: 0.063837; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:20:41,088 Epochs: [175/300]; Train loss: 0.088935; Valid loss: 0.065185; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:25:42,263 Epochs: [176/300]; Train loss: 0.088023; Valid loss: 0.064928; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:30:45,248 Epochs: [177/300]; Train loss: 0.087658; Valid loss: 0.065130; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:35:58,018 Epochs: [178/300]; Train loss: 0.087701; Valid loss: 0.065760; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:41:03,107 Epochs: [179/300]; Train loss: 0.087699; Valid loss: 0.064961; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:46:03,182 Epochs: [180/300]; Train loss: 0.086990; Valid loss: 0.065359; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:51:06,012 Epochs: [181/300]; Train loss: 0.087799; Valid loss: 0.065285; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 00:56:09,876 Epochs: [182/300]; Train loss: 0.087592; Valid loss: 0.064465; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:01:20,336 Epochs: [183/300]; Train loss: 0.086623; Valid loss: 0.064156; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:06:26,227 Epochs: [184/300]; Train loss: 0.088451; Valid loss: 0.065687; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:11:26,810 Epochs: [185/300]; Train loss: 0.087802; Valid loss: 0.065095; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:16:30,356 Epochs: [186/300]; Train loss: 0.087933; Valid loss: 0.065592; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:21:39,352 Epochs: [187/300]; Train loss: 0.087123; Valid loss: 0.065569; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:26:47,104 Epochs: [188/300]; Train loss: 0.088107; Valid loss: 0.065790; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:32:02,986 Epochs: [189/300]; Train loss: 0.087302; Valid loss: 0.066151; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:37:08,505 Epochs: [190/300]; Train loss: 0.088305; Valid loss: 0.065796; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:42:12,723 Epochs: [191/300]; Train loss: 0.087083; Valid loss: 0.064924; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:47:21,141 Epochs: [192/300]; Train loss: 0.086934; Valid loss: 0.063763; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:52:38,290 Epochs: [193/300]; Train loss: 0.087036; Valid loss: 0.063972; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 01:57:44,218 Epochs: [194/300]; Train loss: 0.088326; Valid loss: 0.066529; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:02:56,158 Epochs: [195/300]; Train loss: 0.087104; Valid loss: 0.065944; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:08:11,331 Epochs: [196/300]; Train loss: 0.087971; Valid loss: 0.064412; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:13:16,463 Epochs: [197/300]; Train loss: 0.087727; Valid loss: 0.063895; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:18:34,740 Epochs: [198/300]; Train loss: 0.086460; Valid loss: 0.064773; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:23:40,369 Epochs: [199/300]; Train loss: 0.089375; Valid loss: 0.066417; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:28:45,890 Epochs: [200/300]; Train loss: 0.087093; Valid loss: 0.065540; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:33:50,964 Epochs: [201/300]; Train loss: 0.087489; Valid loss: 0.064729; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:39:16,184 Epochs: [202/300]; Train loss: 0.087486; Valid loss: 0.065502; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:44:29,537 Epochs: [203/300]; Train loss: 0.087427; Valid loss: 0.065255; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:49:36,241 Epochs: [204/300]; Train loss: 0.087735; Valid loss: 0.064444; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:54:49,044 Epochs: [205/300]; Train loss: 0.087490; Valid loss: 0.064615; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 02:59:51,503 Epochs: [206/300]; Train loss: 0.087596; Valid loss: 0.065132; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 03:05:00,794 Epochs: [207/300]; Train loss: 0.088102; Valid loss: 0.063578; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 03:10:00,960 Epochs: [208/300]; Train loss: 0.087416; Valid loss: 0.064714; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 03:15:04,515 Epochs: [209/300]; Train loss: 0.087119; Valid loss: 0.064990; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 03:20:05,901 Epochs: [210/300]; Train loss: 0.087235; Valid loss: 0.065139; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 03:25:08,658 Epochs: [211/300]; Train loss: 0.087225; Valid loss: 0.065457; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 03:30:24,784 Epochs: [212/300]; Train loss: 0.087170; Valid loss: 0.066212; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 17:57:49,715 Epochs: [213/300]; Train loss: 0.086972; Valid loss: 0.064955; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:02:43,777 Epochs: [214/300]; Train loss: 0.087141; Valid loss: 0.064773; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:07:51,078 Epochs: [215/300]; Train loss: 0.087030; Valid loss: 0.065409; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:13:10,655 Epochs: [216/300]; Train loss: 0.088086; Valid loss: 0.064189; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:18:23,876 Epochs: [217/300]; Train loss: 0.087667; Valid loss: 0.065931; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:23:36,818 Epochs: [218/300]; Train loss: 0.087551; Valid loss: 0.065808; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:28:38,960 Epochs: [219/300]; Train loss: 0.088325; Valid loss: 0.065160; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:33:35,697 Epochs: [220/300]; Train loss: 0.087584; Valid loss: 0.064549; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:38:43,016 Epochs: [221/300]; Train loss: 0.086645; Valid loss: 0.065104; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:43:56,496 Epochs: [222/300]; Train loss: 0.087942; Valid loss: 0.065516; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:49:02,274 Epochs: [223/300]; Train loss: 0.088116; Valid loss: 0.066145; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:54:11,680 Epochs: [224/300]; Train loss: 0.087653; Valid loss: 0.063652; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 18:59:16,647 Epochs: [225/300]; Train loss: 0.087013; Valid loss: 0.065314; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:04:27,544 Epochs: [226/300]; Train loss: 0.088432; Valid loss: 0.064961; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:09:41,283 Epochs: [227/300]; Train loss: 0.087667; Valid loss: 0.065937; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:14:45,705 Epochs: [228/300]; Train loss: 0.087398; Valid loss: 0.064445; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:19:50,825 Epochs: [229/300]; Train loss: 0.087910; Valid loss: 0.066259; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:24:56,283 Epochs: [230/300]; Train loss: 0.087316; Valid loss: 0.065323; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:30:09,748 Epochs: [231/300]; Train loss: 0.088204; Valid loss: 0.066213; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:35:12,090 Epochs: [232/300]; Train loss: 0.087599; Valid loss: 0.064749; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:40:19,262 Epochs: [233/300]; Train loss: 0.088197; Valid loss: 0.064813; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:45:22,067 Epochs: [234/300]; Train loss: 0.086993; Valid loss: 0.064730; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:50:32,149 Epochs: [235/300]; Train loss: 0.087777; Valid loss: 0.066181; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 19:55:35,985 Epochs: [236/300]; Train loss: 0.087138; Valid loss: 0.064935; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:00:35,612 Epochs: [237/300]; Train loss: 0.088627; Valid loss: 0.066991; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:05:37,419 Epochs: [238/300]; Train loss: 0.087814; Valid loss: 0.065856; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:10:36,103 Epochs: [239/300]; Train loss: 0.087885; Valid loss: 0.065829; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:15:32,348 Epochs: [240/300]; Train loss: 0.087619; Valid loss: 0.065458; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:20:31,424 Epochs: [241/300]; Train loss: 0.087553; Valid loss: 0.065958; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:25:30,367 Epochs: [242/300]; Train loss: 0.088220; Valid loss: 0.064689; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:30:27,465 Epochs: [243/300]; Train loss: 0.087320; Valid loss: 0.065904; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:35:25,977 Epochs: [244/300]; Train loss: 0.087022; Valid loss: 0.065648; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:40:20,964 Epochs: [245/300]; Train loss: 0.087601; Valid loss: 0.066007; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:45:17,974 Epochs: [246/300]; Train loss: 0.087193; Valid loss: 0.065752; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:50:16,447 Epochs: [247/300]; Train loss: 0.087475; Valid loss: 0.066551; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 20:55:13,571 Epochs: [248/300]; Train loss: 0.087616; Valid loss: 0.064805; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 21:00:10,088 Epochs: [249/300]; Train loss: 0.087775; Valid loss: 0.065837; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 21:05:04,532 Epochs: [250/300]; Train loss: 0.087222; Valid loss: 0.064493; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 21:47:35,613 Epochs: [251/300]; Train loss: 0.088157; Valid loss: 0.066027; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 21:52:21,745 Epochs: [252/300]; Train loss: 0.088270; Valid loss: 0.065480; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 21:57:17,594 Epochs: [253/300]; Train loss: 0.087602; Valid loss: 0.065649; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 22:02:15,918 Epochs: [254/300]; Train loss: 0.086938; Valid loss: 0.066520; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 22:07:12,326 Epochs: [255/300]; Train loss: 0.088024; Valid loss: 0.065593; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 22:12:05,071 Epochs: [256/300]; Train loss: 0.088003; Valid loss: 0.066232; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 22:17:01,967 Epochs: [257/300]; Train loss: 0.087708; Valid loss: 0.066145; mapping: 0.000000; lr: 0.000001 
+
+2025-03-10 22:21:57,212 Epochs: [258/300]; Train loss: 0.087237; Valid loss: 0.063531; mapping: 0.000000; lr: 0.000001 
+

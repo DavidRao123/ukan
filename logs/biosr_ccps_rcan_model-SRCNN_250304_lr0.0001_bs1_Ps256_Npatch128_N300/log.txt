@@ -1,0 +1,74 @@
+2025-03-04 19:34:46,350 Epochs: [0/300]; Train loss: 0.106809; Valid loss: 0.071786; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 19:39:38,345 Epochs: [1/300]; Train loss: 0.096378; Valid loss: 0.073558; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 19:44:11,459 Epochs: [2/300]; Train loss: 0.094228; Valid loss: 0.073368; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 19:49:01,069 Epochs: [3/300]; Train loss: 0.093532; Valid loss: 0.067515; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 19:53:52,230 Epochs: [4/300]; Train loss: 0.094259; Valid loss: 0.068178; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 19:58:45,076 Epochs: [5/300]; Train loss: 0.092646; Valid loss: 0.068472; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 20:03:35,608 Epochs: [6/300]; Train loss: 0.092925; Valid loss: 0.066670; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 21:00:20,394 Epochs: [7/300]; Train loss: 0.091780; Valid loss: 0.063144; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 21:05:13,146 Epochs: [8/300]; Train loss: 0.091623; Valid loss: 0.065621; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 21:10:05,224 Epochs: [9/300]; Train loss: 0.091558; Valid loss: 0.067781; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 21:14:56,061 Epochs: [10/300]; Train loss: 0.090624; Valid loss: 0.069817; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 21:19:47,254 Epochs: [11/300]; Train loss: 0.090881; Valid loss: 0.064937; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 21:24:39,736 Epochs: [12/300]; Train loss: 0.090505; Valid loss: 0.065711; mapping: 0.000000; lr: 0.000100 
+
+2025-03-04 21:29:31,051 Epochs: [13/300]; Train loss: 0.090458; Valid loss: 0.067794; mapping: 0.000000; lr: 0.000030 
+
+2025-03-04 21:34:23,369 Epochs: [14/300]; Train loss: 0.088938; Valid loss: 0.064465; mapping: 0.000000; lr: 0.000030 
+
+2025-03-04 21:39:20,790 Epochs: [15/300]; Train loss: 0.088919; Valid loss: 0.065116; mapping: 0.000000; lr: 0.000030 
+
+2025-03-04 21:43:58,259 Epochs: [16/300]; Train loss: 0.088681; Valid loss: 0.065411; mapping: 0.000000; lr: 0.000030 
+
+2025-03-04 21:48:42,002 Epochs: [17/300]; Train loss: 0.090015; Valid loss: 0.066917; mapping: 0.000000; lr: 0.000030 
+
+2025-03-04 21:53:20,975 Epochs: [18/300]; Train loss: 0.088537; Valid loss: 0.063569; mapping: 0.000000; lr: 0.000030 
+
+2025-03-04 22:01:59,135 Epochs: [19/300]; Train loss: 0.088323; Valid loss: 0.065970; mapping: 0.000000; lr: 0.000009 
+
+2025-03-04 22:10:40,134 Epochs: [20/300]; Train loss: 0.088193; Valid loss: 0.064652; mapping: 0.000000; lr: 0.000009 
+
+2025-03-04 22:19:23,886 Epochs: [21/300]; Train loss: 0.088190; Valid loss: 0.064795; mapping: 0.000000; lr: 0.000009 
+
+2025-03-04 22:27:58,048 Epochs: [22/300]; Train loss: 0.087241; Valid loss: 0.065992; mapping: 0.000000; lr: 0.000009 
+
+2025-03-04 22:33:23,254 Epochs: [23/300]; Train loss: 0.087814; Valid loss: 0.066451; mapping: 0.000000; lr: 0.000009 
+
+2025-03-04 22:38:13,751 Epochs: [24/300]; Train loss: 0.087889; Valid loss: 0.069922; mapping: 0.000000; lr: 0.000009 
+
+2025-03-04 22:44:31,467 Epochs: [25/300]; Train loss: 0.088028; Valid loss: 0.064808; mapping: 0.000000; lr: 0.000003 
+
+2025-03-04 22:50:58,794 Epochs: [26/300]; Train loss: 0.088021; Valid loss: 0.064494; mapping: 0.000000; lr: 0.000003 
+
+2025-03-04 22:59:51,743 Epochs: [27/300]; Train loss: 0.087301; Valid loss: 0.065747; mapping: 0.000000; lr: 0.000003 
+
+2025-03-04 23:08:37,940 Epochs: [28/300]; Train loss: 0.088518; Valid loss: 0.066363; mapping: 0.000000; lr: 0.000003 
+
+2025-03-04 23:17:18,147 Epochs: [29/300]; Train loss: 0.087372; Valid loss: 0.064729; mapping: 0.000000; lr: 0.000003 
+
+2025-03-04 23:25:57,895 Epochs: [30/300]; Train loss: 0.088251; Valid loss: 0.065103; mapping: 0.000000; lr: 0.000003 
+
+2025-03-04 23:35:03,398 Epochs: [31/300]; Train loss: 0.087299; Valid loss: 0.062923; mapping: 0.000000; lr: 0.000003 
+
+2025-03-04 23:43:44,834 Epochs: [32/300]; Train loss: 0.087733; Valid loss: 0.065335; mapping: 0.000000; lr: 0.000003 
+
+2025-03-04 23:52:34,069 Epochs: [33/300]; Train loss: 0.087918; Valid loss: 0.065247; mapping: 0.000000; lr: 0.000003 
+
+2025-03-05 00:01:28,655 Epochs: [34/300]; Train loss: 0.086975; Valid loss: 0.065434; mapping: 0.000000; lr: 0.000003 
+
+2025-03-05 00:10:23,014 Epochs: [35/300]; Train loss: 0.088150; Valid loss: 0.065354; mapping: 0.000000; lr: 0.000003 
+
+2025-03-05 00:19:26,491 Epochs: [36/300]; Train loss: 0.087047; Valid loss: 0.065955; mapping: 0.000000; lr: 0.000003 
+
