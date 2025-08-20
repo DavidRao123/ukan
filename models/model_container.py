@@ -12,6 +12,15 @@ from models.model_base import BaseModel
 from models.dfcan import DFCAN
 from models.srcnn import SRCNN
 from models.srkan import SRKAN
+from models.rkan import RKAN
+from models.ukan import U_KAN
+from models.unet import SR_Unet
+from models.RCKAN import RCKAN
+from models.rckanp import RCKANP
+from models.msaukan import MSA_UKAN
+from models.attenukan import AttenUKAN
+from models.attenmsaukan import AttenMSA_UKAN
+from models.attenmbaukan3layer import AttenMSA_UKAN3
 # import intel_extension_for_pytorch as ipex
 
 """RCAN model with 1C input"""
@@ -34,6 +43,24 @@ class modelContainer(BaseModel):
             self.model = SRCNN( n_channels=in_channel, n_classes= n_class )
         elif modelname == 'SRKAN':
             self.model = SRKAN( n_channels=in_channel, n_classes= n_class )
+        elif modelname == 'RKAN':
+            self.model = RKAN( n_channels=in_channel, n_classes= n_class )
+        elif modelname == 'UNET':
+            self.model = SR_Unet( n_channels=in_channel, n_classes= n_class )
+        elif modelname == 'UKAN':
+            self.model = U_KAN(in_channels=in_channel).to(self.device)
+        elif modelname == 'RCKAN':
+            self.model = RCKAN(n_channels=in_channel, n_classes=n_class).to(self.device)
+        elif modelname == 'RCKANP':
+            self.model = RCKANP(n_channels=in_channel, n_classes=n_class).to(self.device)
+        elif modelname == 'MSA_UKAN':
+            self.model = MSA_UKAN(in_channels=in_channel).to(self.device)
+        elif modelname == 'AttenUKAN':
+            self.model = AttenUKAN(in_channels=in_channel).to(self.device)
+        elif modelname == 'AttenMSA_UKAN':
+            self.model = AttenMSA_UKAN(in_channels=in_channel).to(self.device)
+        elif modelname == 'AttenMSA_UKAN3':
+            self.model = AttenMSA_UKAN3(in_channels=in_channel).to(self.device)
         # elif modelname == 'LARN1en':
         #     self.model = LARN_noET(n_channels=in_channel, n_classes=n_class, num_encoder=1, num_ARBs=num_ARBs)
         # elif modelname == 'LARN2en':
@@ -104,6 +131,9 @@ class modelContainer(BaseModel):
     def train_epoch(self, train_loader, SWriter = None):
         self.model.train()
         epoch_loss = 0
+
+
+
         # training
         batch_tqdm = tqdm.tqdm(train_loader, total=len(train_loader))
         for batch in batch_tqdm:
@@ -111,6 +141,9 @@ class modelContainer(BaseModel):
 
             low = low.to(device=self.device, dtype=torch.float32, non_blocking=True)
             gt = gt.to(device=self.device, dtype=torch.float32, non_blocking=True)
+
+
+
             pred = self.model(low)
             if self.loss != 'MIX':
                 loss = self.loss_function(pred, gt)

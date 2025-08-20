@@ -100,7 +100,9 @@ if __name__ == '__main__':
                         help='loss choice, SmoothL1 or L2, (default is SmoothL1)')
     parser.add_argument('--genMethod', default='None',
                         choices=['None', 'GAN', 'MIX', 'COMB'], help='data simultation method choice (default is OTF)')
-    parser.add_argument('--model_name', default='RCAN', choices=['RCAN', 'DNBSRN', 'SRCNN', 'SRKAN' ],
+    parser.add_argument('--model_name', default='RCAN', choices=['RCAN', 'DNBSRN', 'SRCNN', 'SRKAN', 'RKAN',
+                                                                 'UNET', 'UKAN', 'RCKAN', 'RCKANP', 'MSA_UKAN', 
+                                                                 'AttenUKAN', 'AttenMSA_UKAN', 'AttenMSA_UKAN3'],
                         help='model choice, RCAN or DNBSRN, (default is RCAN)')
     parser.add_argument('--WriteImageTensor', action='store_true')
     ## setting of model architecture

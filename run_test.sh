@@ -1,0 +1,1 @@
+python utest_biosr.py --data_dir ./data/CM/test --model_name AttenMSA_UKAN3 --save_pred_image --model_weights ./logs/biosr_cm_attenmsaukan3_smoothl1_0806_model-AttenMSA_UKAN3_250806_lr0.0001_bs8_Ps256_Npatch128_N200/bestloss.pth
